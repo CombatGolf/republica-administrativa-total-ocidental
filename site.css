@@ -906,3 +906,8 @@ body[data-vista="plano"] .pu-botao { opacity: .55; }
 .pg-item__fontes a { color: #2257a7; text-decoration: underline; text-underline-offset: 2px; }
 @media (max-width: 64rem) { .cabecalho .marca { min-width: 0; flex: 1; } .cabecalho .marca > span { min-width: 0; } .cabecalho .marca__texto { white-space: normal; font-size: clamp(.9rem, 3.8vw, 1.25rem); line-height: 1.15; } .cabecalho .acoes-topo { flex: none; margin-left: auto; } }
 @media (min-width: 64rem) { .atalhos__lista { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.marca__logo { width: 48px; height: 48px; flex: none; border-radius: 50%; object-fit: cover; background: #f7f7f7; }
+.rodape .marca__logo { width: 52px; height: 52px; }
+.grupo__bandeira { margin: 1.8rem 0 0; max-width: 62rem; border-radius: .9rem; overflow: hidden; box-shadow: 0 12px 30px rgba(0,0,0,.22); }
+.grupo__bandeira img { display: block; width: 100%; height: auto; }
+@media (max-width: 40rem) { .cabecalho .marca__logo { width: 40px; height: 40px; } }
