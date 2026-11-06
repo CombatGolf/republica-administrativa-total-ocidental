@@ -1,9 +1,9 @@
 # PLANO ÚNICO
 
-Site de um projeto escolar fictício, sem registro no TSE e sem vínculo com eleições.
+Site do PLANO ÚNICO, com 89 propostas organizadas em 13 eixos e fontes oficiais nos itens pertinentes.
 
 - [Abrir o site](https://combatgolf.github.io/plano-unico-escolar/)
 - [Ler as 89 propostas e fontes](propostas.md)
 - [Baixar o PDF](plano-unico-propostas-e-fontes.pdf)
 
-O site é estático. O logotipo circular aparece no cabeçalho e a bandeira horizontal na apresentação do grupo.
+O site é estático. O logotipo circular aparece no cabeçalho e a bandeira horizontal na seção de diretrizes.

@@ -1,5 +1,5 @@
 /* ============================================================
-   PLANO ÚNICO — site do plano de governo (projeto fictício)
+   PLANO ÚNICO — site do plano de governo
    Linguagem visual inspirada em sites de campanha brasileiros:
    toolbar de acessibilidade, vitrola de destaques, trilha de
    temas com cartões que abrem diálogo. Identidade própria:
@@ -152,7 +152,7 @@ ul[role="list"], ol[role="list"] { list-style: none; padding: 0; }
 .botao--fantasma { background: transparent; color: inherit; box-shadow: inset 0 0 0 2px currentColor; }
 .botao--fantasma:hover { transform: translateY(-2px); }
 
-/* ---------- faixa-aviso (projeto fictício) ---------- */
+/* ---------- faixa-aviso ---------- */
 .aviso {
   background: var(--amarelo); color: #231a00;
   font-size: .84rem; font-weight: 700; text-align: center;

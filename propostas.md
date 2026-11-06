@@ -1,7 +1,5 @@
 # PLANO ÚNICO
 
-**Projeto escolar fictício, sem registro no TSE e sem vínculo com eleições.**
-
 ## Eixo 1 - Democracia, participação e Estado
 
 ### 1. Orçamento participativo com cardápio técnico
@@ -18,13 +16,13 @@ Em saúde, educação, segurança e planejamento, conselhos formados por represe
 
 ### 3. Referendo apenas em temas de grande divisão social
 
-(por exemplo, a gratuidade do transporte público coletivo, com financiamento federal), para a população ratificar ou rejeitar, em referendo, ato normativo de grande relevância já aprovado ou submetido à ratificação. O Congresso convoca, por decreto legislativo (art. 49, XV), e matérias de cláusula pétrea e direitos fundamentais ficam fora. Sem plebiscito como regra.
+Submeter a referendo, em temas de grande divisão social, ato normativo já aprovado ou sujeito a ratificação, para decisão do eleitorado. A convocação cabe ao Congresso, por decreto legislativo (CF, art. 49, XV; Lei 9.709/1998). Direitos fundamentais e matérias protegidas por cláusulas pétreas ficam fora. O plebiscito não será instrumento ordinário. Exemplo: gratuidade do transporte coletivo com financiamento federal.
 
-**Fontes:** [Lei 9.709/1998 - consultas populares](https://legis.senado.leg.br/norma/551585/publicacao/15652417).
+**Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817); [Lei 9.709/1998 - consultas populares](https://legis.senado.leg.br/norma/551585/publicacao/15652417).
 
 ### 3A. Iniciativa popular facilitada
 
-Permitir a coleta de assinaturas por meio digital seguro (autenticação forte e trilha de auditoria), por lei ordinária, mantidos os percentuais constitucionais (art. 61, §2º). Cada cidadão assina uma vez por projeto, com conferência por amostragem. Cada projeto trata de um único assunto, e a rejeição não impede nova iniciativa constitucionalmente válida . Até 5 projetos por ano têm tramitação prioritária, conforme os regimentos das Casas, na ordem de conclusão da coleta, com prazo regimental para análise (item 7). Painel público mostra o andamento das assinaturas e quem promove e financia cada coleta (item 4).
+Permitir a coleta de assinaturas por meio digital seguro (autenticação forte e trilha de auditoria), por lei ordinária, mantidos os percentuais constitucionais (art. 61, §2º). Cada cidadão assina uma vez por projeto, com conferência por amostragem. Cada projeto trata de um único assunto, e a rejeição não impede nova iniciativa constitucionalmente válida. Até 5 projetos por ano têm tramitação prioritária, conforme os regimentos das Casas, na ordem de conclusão da coleta, com prazo regimental para análise (item 7). Painel público mostra o andamento das assinaturas e quem promove e financia cada coleta (item 4).
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817); [Lei 9.709/1998 - consultas populares](https://legis.senado.leg.br/norma/551585/publicacao/15652417).
 
@@ -54,7 +52,7 @@ Todo o governo digital, com reconstrução do portal gov.br (login único, lingu
 
 ### 7. Reforma do processo legislativo
 
-O partido apresentará projeto para alterar os regimentos da Câmara e do Senado, de modo que a pauta deixe de depender de uma só pessoa. Projetos de grande impacto nacional e os de iniciativa popular terão prazo máximo para entrar em pauta, com critérios objetivos de prioridade escritos no regimento (homenagens e nomes de logradouros ficam no fim da fila), e haverá transparência pública sobre cada projeto parado ou priorizado. O partido proporá às Casas alterações de seus regimentos pelos instrumentos próprios.
+Propor alterações nos regimentos da Câmara e do Senado para distribuir a definição da pauta. Projetos de grande impacto nacional e os de iniciativa popular terão prazo máximo para entrar em pauta, com critérios objetivos de prioridade escritos no regimento (homenagens e nomes de logradouros ficam no fim da fila), e haverá transparência pública sobre cada projeto parado ou priorizado.
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
@@ -68,7 +66,7 @@ Defensoria Pública fortalecida (carreira, concurso e presença em todas as coma
 
 ### 8. Justiça tributária
 
-Menos imposto sobre consumo e sobre quem ganha menos; imposto de renda mais progressivo; fim de isenções e benefícios a altas rendas e grandes empresas; tributação progressiva e moderada de lucros, dividendos, grandes heranças e patrimônio de luxo; imposto mínimo sobre super-ricos e regulamentação do imposto sobre grandes fortunas, sempre dentro da vedação ao confisco. Criptoativos com identificação obrigatória nas plataformas, tributação reduzida para operações declaradas e elevada, com fiscalização reforçada, para as fora do sistema identificado. Penas agravadas contra sonegação e devedor contumaz (crimes contra a ordem tributária, e não prisão por dívida comum), combate a paraísos fiscais, offshores e evasão por mudança de residência fiscal. Coordenação nacional contra a guerra fiscal entre estados, com consumo tributado no destino e transferências com finalidade a municípios nas vinculações permitidas (a Constituição veda vincular receita de imposto a despesa específica, art. 167, IV). Incentivos fortes a pequenos negócios (Simples, MEI e crédito), com transição gradual para evitar o nanismo de empresas. Cada tributo será alterado pelo ente competente, na espécie legislativa exigida.
+Menos imposto sobre consumo e sobre quem ganha menos; imposto de renda mais progressivo; fim de isenções e benefícios a altas rendas e grandes empresas; tributação progressiva e moderada de lucros, dividendos, grandes heranças e patrimônio de luxo; imposto mínimo sobre super-ricos e regulamentação do imposto sobre grandes fortunas, sempre dentro da vedação ao confisco. Criptoativos com identificação obrigatória nas plataformas, tributação reduzida para operações declaradas e elevada, com fiscalização reforçada, para as fora do sistema identificado. Penas agravadas contra sonegação e devedor contumaz (crimes contra a ordem tributária, e não prisão por dívida comum), combate a paraísos fiscais, offshores e evasão por mudança de residência fiscal. Coordenação nacional contra a guerra fiscal entre estados, com consumo tributado no destino e transferências com finalidade a municípios nas vinculações permitidas (a Constituição veda vincular receita de imposto a despesa específica, art. 167, IV). Incentivos fortes a pequenos negócios (Simples, MEI e crédito), com transição gradual para evitar a manutenção artificial de empresas em faixas de menor porte. Cada tributo será alterado pelo ente competente, na espécie legislativa exigida.
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
@@ -150,11 +148,11 @@ Análise automática de operações atípicas, por critérios de risco definidos
 
 **Patrimônio.**
 
-Bloqueio cautelar imediato de bens de origem ilícita e perda definitiva por decisão judicial, com direito de defesa. O dinheiro vai para o fundo de segurança pública e para a indenização das vítimas; o que for da vítima é devolvido; veículos e equipamentos são incorporados a órgãos públicos ou leiloados, sem que a receita fique com o órgão que apreendeu, e com auditoria.
+Bloqueio cautelar imediato de bens de origem ilícita e perda definitiva por decisão judicial, com direito de defesa. Os valores serão destinados ao fundo de segurança pública e à indenização das vítimas, com restituição dos bens que lhes pertençam. Veículos e equipamentos serão incorporados a órgãos públicos ou leiloados, sem destinação da receita ao órgão responsável pela apreensão, sob auditoria.
 
 **Presídios.**
 
-Lideranças e presos de alto risco cumprem pena em unidades federais de segurança máxima, em locais remotos do território nacional, inclusive ilhas e ilhas artificiais nas águas brasileiras, fora do estado de origem e com decisão judicial . Nas demais unidades, o preso é classificado por risco individual, em unidades pequenas e modulares, com limite de presos por facção em cada unidade e alas separadas para rivais, sem contato entre elas, para impedir o domínio do presídio por uma facção. Crime cometido dentro da prisão leva a isolamento cautelar e transferência imediata para segurança máxima, com decisão judicial em até 24 horas, julgamento por videoconferência com defesa garantida, perda dos dias remidos (sem o limite de 1/3 do art. 127 da LEP, que o plano altera de propósito, com defesa garantida) e pena somada à anterior. Reconstrução gradual do sistema com unidades modulares de cela individual, material resistente, scanner corporal e monitoramento, financiada pelo Fundo Penitenciário, pelo FNSP (que a Lei 15.358 passou a destinar a presídios, com prioridade à segregação de lideranças) e pelo patrimônio confiscado, com metas públicas. Armamento letal nas guaritas, no perímetro e na equipe tática, e equipamento menos letal dentro das alas, sob regras públicas de uso da força. Cada unidade tem um canal único de comunicação, com bloqueio de sinal que não atinja o entorno, liberado em janelas curtas, monitorado e gravado, preservados o sigilo do advogado, salvo ordem judicial, e o contato com a família por visita e videochamada. O Estado garante a integridade física de todos os presos. Visita íntima e saída temporária por perfil, em respeito à individualização da pena (art. 5º, XLVI): para condenados por crimes graves e por integrar facção, ficam vedadas a saída temporária e a visita íntima, com visita familiar por parlatório ou videochamada monitorada; para os demais, a visita íntima e a saída para estudo (única saída temporária que restou no art. 122) dependem de trabalho, estudo e bom comportamento e são perdidas na falta grave.
+Lideranças e presos de alto risco cumprem pena em unidades federais de segurança máxima, em locais remotos do território nacional, inclusive ilhas e ilhas artificiais nas águas brasileiras, fora do estado de origem e com decisão judicial. Nas demais unidades, o preso é classificado por risco individual, em unidades pequenas e modulares, com limite de presos por facção em cada unidade e alas separadas para rivais, sem contato entre elas, para impedir o domínio do presídio por uma facção. Crime cometido dentro da prisão leva a isolamento cautelar e transferência imediata para segurança máxima, com decisão judicial em até 24 horas, julgamento por videoconferência com defesa garantida, perda integral dos dias remidos, mediante alteração do art. 127 da LEP e com direito de defesa e pena somada à anterior. Reconstrução gradual do sistema com unidades modulares de cela individual, material resistente, scanner corporal e monitoramento, financiada pelo Fundo Penitenciário, pelo FNSP (que a Lei 15.358 passou a destinar a presídios, com prioridade à segregação de lideranças) e pelo patrimônio confiscado, com metas públicas. Armamento letal nas guaritas, no perímetro e na equipe tática, e equipamento menos letal dentro das alas, sob regras públicas de uso da força. Cada unidade tem um canal único de comunicação, com bloqueio de sinal que não atinja o entorno, liberado em janelas curtas, monitorado e gravado, preservados o sigilo do advogado, salvo ordem judicial, e o contato com a família por visita e videochamada. O Estado garante a integridade física de todos os presos. Visita íntima e saída temporária por perfil, em respeito à individualização da pena (art. 5º, XLVI): para condenados por crimes graves e por integrar facção, ficam vedadas a saída temporária e a visita íntima, com visita familiar por parlatório ou videochamada monitorada; para os demais, a visita íntima e a saída para estudo (única saída temporária que restou no art. 122) dependem de trabalho, estudo e bom comportamento e são perdidas na falta grave.
 
 **Empresas.**
 
@@ -170,7 +168,7 @@ Perdimento mediante processo legal, com contraditório e direitos de terceiros; 
 
 ### 18B. Presença do Estado no território
 
-Nos territórios dominados por organizações criminosas, o Estado entra por etapas e permanece: polícia de proximidade com inteligência, controle externo e câmeras (item 20), junto com escola em tempo integral, creche, posto de saúde, iluminação, saneamento e transporte, com metas públicas por território. Urbanização no lugar: infraestrutura de esgoto, água, drenagem e vias de acesso, titulação de quem já mora no local e reforma das casas por programa público com assistência técnica gratuita, sem remoção em massa. A remoção ocorre apenas em área de risco de vida, com reassentamento próximo, indenização e consulta aos moradores. Programas de prevenção ao recrutamento de jovens, ligados ao trabalho público temporário e à inclusão produtiva (itens 11 e 12). Reconhecimento facial limitado a hipóteses legais, com auditoria e revisão humana.
+Implantar presença estatal permanente, por etapas, nos territórios sob domínio de organizações criminosas, com polícia de proximidade com inteligência, controle externo e câmeras (item 20), junto com escola em tempo integral, creche, posto de saúde, iluminação, saneamento e transporte, com metas públicas por território. Urbanização no lugar: infraestrutura de esgoto, água, drenagem e vias de acesso, titulação de quem já mora no local e reforma das casas por programa público com assistência técnica gratuita, sem remoção em massa. A remoção ocorre apenas em área de risco de vida, com reassentamento próximo, indenização e consulta aos moradores. Programas de prevenção ao recrutamento de jovens, ligados ao trabalho público temporário e à inclusão produtiva (itens 11 e 12). Reconhecimento facial limitado a hipóteses legais, com auditoria e revisão humana.
 
 **Monitoramento por imagem externa.**
 
@@ -196,13 +194,19 @@ Ouvidorias independentes em cada polícia, com titular de mandato fixo escolhido
 
 ### 21. Trabalho e estudo no sistema prisional e porta de saída
 
-O trabalho é dever de todo condenado (LEP, art. 31), como parte da execução da pena e nunca como pena de trabalho forçado, com dever do Estado de oferecer vaga de trabalho ou estudo e metas públicas anuais por estado. Preso provisório trabalha apenas se quiser. O trabalho é remunerado e conta para remição (estudo e qualificação também). Remição ampliada: 1 dia de pena a cada 2 dias de trabalho (hoje, 1 a cada 3) para condenados por crimes sem violência ou grave ameaça; nos crimes graves, mantém-se 1 a cada 3, sem reduzir as frações do item 22. Parte do valor recebido vai para indenização da vítima e poupança de saída. O trabalho prisional é feito somente para o Estado, estatais e cooperativas apoiadas pelo poder público, nunca para empresas ou empreiteiras privadas (LEP alterada para vedar a cessão de presos), para que o preso nunca seja mão de obra barata do setor privado. Prioridade a obras públicas e serviços de infraestrutura (pontes, estradas, manutenção), sob responsável técnico, com equipamento de proteção, seguro e escolta civil (polícia penal). Sem teto percentual de presos por obra: trabalham todos os condenados aptos, na medida das vagas oferecidas pelo Estado; o trabalho externo depende de avaliação individual, escolta civil e cumprimento de fração mínima da pena (hoje 1/6, LEP art. 37), e os condenados de maior risco trabalham dentro da unidade. As obras do programa são adicionais e nunca substituem servidores ou trabalhadores contratados. Em semiaberto e aberto, o emprego comum voluntário em empresa privada continua como hoje. Condições seguras, jornada de 6 a 8 horas, trabalho degradante e tratamento humilhante proibidos; a recusa injustificada de trabalho continua sendo falta grave, com direito de defesa. Empresas que contratam egressos recebem bonificação temporária até o egresso estar estável (12 meses empregado sem nova condenação, limite de 2 anos); a cota obrigatória do Decreto 9.450/2018 sai e fica o incentivo. Ao fim da pena, o egresso tem vaga garantida, se quiser, por até 2 anos, em contratos públicos, no trabalho público temporário (item 11) ou em cooperativas apoiadas (item 12), com salário mínimo e sem efetivação direta em cargo público (art. 37, II). Bônus de estudo. O condenado que obtiver aprovação no Enem ou em exame equivalente, conforme critério objetivo definido em lei, que premia avanço de escolaridade e não só nota alta, recebe acréscimo de dias de remição por exame, sem teto total nos crimes sem violência ou grave ameaça. Nos crimes graves, o acréscimo não reduz as frações mínimas do item 22. O exame é aplicado na unidade com fiscalização externa. A nota dá ao egresso prioridade de vaga no ensino técnico e superior público por prazo definido em lei. A indenização à vítima continua devida. Remição adicional por critérios legais objetivos; trabalho prisional sob controle público, sem substituir cargos que exigem concurso.
+O trabalho do condenado segue a Lei de Execução Penal (art. 31), com oferta estatal de vagas de trabalho ou estudo; para o preso provisório, é voluntário. O trabalho será remunerado, terá jornada de seis a oito horas, proteção à saúde, seguro e fiscalização, e contará para remição da pena, assim como o estudo e a qualificação. Nos crimes sem violência ou grave ameaça, a remição será de um dia de pena a cada dois de trabalho; nos demais, mantém-se a proporção de um para três. Parte da remuneração será destinada à indenização da vítima e à poupança de saída.
+
+O trabalho prisional atenderá ao Estado, a estatais e a cooperativas apoiadas pelo poder público, vedada a cessão de presos a empresas privadas; permanece o emprego voluntário comum nos regimes semiaberto e aberto. Obras públicas adicionais poderão empregar todos os condenados aptos, conforme as vagas, com responsável técnico, equipamentos de proteção e escolta civil. O trabalho externo dependerá de avaliação individual e do cumprimento da fração mínima legal (LEP, art. 37); presos de maior risco trabalharão dentro da unidade. A recusa injustificada constitui falta grave, assegurada a defesa.
+
+Empresas que contratarem egressos receberão incentivo temporário, por até dois anos, encerrado após doze meses de emprego sem nova condenação, em substituição à cota do Decreto 9.450/2018. Ao fim da pena, o egresso poderá optar por vaga de até dois anos em contratos públicos, trabalho público temporário ou cooperativas apoiadas, com salário mínimo e sem investidura automática em cargo público.
+
+Aprovação no Enem ou exame equivalente dará remição adicional por critérios legais de avanço escolar, sem teto total para crimes sem violência; nos crimes graves, não reduzirá as frações mínimas do item 22. O exame terá fiscalização externa, e o egresso terá prioridade temporária no ensino técnico e superior público. A indenização à vítima permanece devida.
 
 **Fontes:** [Lei 7.210/1984 - execução penal](https://legis.senado.leg.br/norma/549086/publicacao/34619809).
 
 ### 22. Penas e regimes
 
-Aumento geral e escalonado das penas, mais forte nos crimes graves (homicídio qualificado, crimes sexuais e contra crianças, terrorismo, tortura e facção), com fim dos benefícios (saída temporária, indulto, liberdade condicional) para eles. Mantido o limite de cumprimento de 40 anos (CP, art. 75), pela vedação constitucional a penas perpétuas; o grupo não vê necessidade de subir o teto. Primários: progressão pela escala atual do art. 112 da LEP, na redação da Lei 15.358/2026 (70% nos hediondos; 75% para quem comanda organização criminosa ultraviolenta e no feminicídio primário). Reincidentes em crime grave: progressão só após 85% da pena . Reincidência: cada reincidência, dentro do período de 5 anos do art. 64 do CP, aumenta a pena em metade, de forma acumulada e sem teto específico , respeitado o limite de 40 anos . Reincidente em crime leve e sem violência mantém progressão com fração maior que a do primário. Semiaberto reservado a crimes leves (sem violência ou grave ameaça); crimes violentos começam no fechado. Sem pena de morte e sem prisão perpétua.
+Aumento geral e escalonado das penas, mais forte nos crimes graves (homicídio qualificado, crimes sexuais e contra crianças, terrorismo, tortura e facção), com fim dos benefícios (saída temporária, indulto, liberdade condicional) para eles. Mantido o limite de cumprimento de 40 anos (CP, art. 75), pela vedação constitucional a penas perpétuas. Primários: progressão pela escala atual do art. 112 da LEP, na redação da Lei 15.358/2026 (70% nos hediondos; 75% para quem comanda organização criminosa ultraviolenta e no feminicídio primário). Reincidentes em crime grave: progressão só após 85% da pena. Reincidência: cada reincidência, dentro do período de 5 anos do art. 64 do CP, aumenta a pena em metade, de forma acumulada e sem teto específico, respeitado o limite de 40 anos. Reincidente em crime leve e sem violência mantém progressão com fração maior que a do primário. Semiaberto reservado a crimes leves (sem violência ou grave ameaça); crimes violentos começam no fechado. Sem pena de morte e sem prisão perpétua.
 
 **Fontes:** [Lei 7.210/1984 - execução penal](https://legis.senado.leg.br/norma/549086/publicacao/34619809); [Lei 15.358/2026 - combate ao crime organizado](https://legis.senado.leg.br/norma/42931693); [Lei 15.402/2026 - alteração da execução penal](https://legis.senado.leg.br/norma/43271992/publicacao/43276867).
 
@@ -278,11 +282,11 @@ Manter o piso de 15% da RCL, blindá-lo do arcabouço fiscal e elevar a particip
 
 ### 32. Atenção primária e profissionais
 
-Fortalecer a atenção básica e o Mais Médicos, com carreira, fixação em áreas carentes e telessaúde. Ponte com o item 29: profissionais de saúde do exterior, com revalidação ágil de diploma.
+Fortalecer a atenção básica e o Mais Médicos, com carreira, fixação em áreas carentes e telessaúde. Admitir profissionais de saúde formados no exterior, mediante revalidação ágil do diploma.
 
 ### 33. Soberania sanitária (Complexo Econômico-Industrial da Saúde)
 
-Fortalecer Fiocruz, Butantan e Hemobrás, produzir vacinas, medicamentos e insumos no país por parcerias de transferência de tecnologia (como as PDPs, que existem hoje) e usar a licença compulsória de medicamentos quando houver abuso ou emergência (Lei 9.279, arts. 68 a 71).
+Fortalecer Fiocruz, Butantan e Hemobrás, produzir vacinas, medicamentos e insumos no país por parcerias de transferência de tecnologia (PDPs) e usar a licença compulsória de medicamentos quando houver abuso ou emergência (Lei 9.279, arts. 68 a 71).
 
 **Fontes:** [Lei 9.279/1996 - propriedade industrial](https://legis.senado.leg.br/norma/551155/publicacao/34619650).
 
@@ -292,7 +296,7 @@ Regulação nacional de filas, com painel público de espera por especialidade (
 
 ### 35. Saúde mental e dados de saúde
 
-Ampliar a rede pública de saúde mental (CAPS) e ligar ao item 23: o tratamento voluntário de dependência prometido lá precisa de estrutura e financiamento. Dados de saúde sob a LGPD, armazenados no país e sem entrega a empresas privadas (coerente com os itens 5 e 6). Compartilhamento apenas nas hipóteses legais estritamente necessárias, com proteção reforçada.
+Ampliar a rede pública de saúde mental (CAPS) e ligar ao item 23: o tratamento voluntário de dependência prometido lá precisa de estrutura e financiamento. Dados de saúde sob a LGPD, armazenados no país e sem entrega a empresas privadas. Compartilhamento apenas nas hipóteses legais estritamente necessárias, com proteção reforçada.
 
 **Fontes:** [Lei 13.709/2018 - proteção de dados](https://legis.senado.leg.br/norma/27457334/publicacao/27457731).
 
@@ -326,7 +330,7 @@ Esporte escolar e de base como parte do tempo integral (item 26) e da prevençã
 
 ### 40A. Fomento ao audiovisual
 
-Manter o fomento ao audiovisual (Ancine e Fundo Setorial do Audiovisual) por seleção pública e critérios objetivos, com espaço para produção independente e regional, aplicando a regra do item 38 (nenhum apoio concedido ou negado por conteúdo ou opinião). Sem censura prévia (art. 220). O plano não cria nem amplia mídia pública estatal. Critérios públicos de mérito, finalidade e legalidade são legítimos; veda-se só a discriminação por opinião política.
+Manter o fomento ao audiovisual (Ancine e Fundo Setorial do Audiovisual) por seleção pública e critérios objetivos, com espaço para produção independente e regional, aplicando a regra do item 38 (nenhum apoio concedido ou negado por conteúdo ou opinião). Sem censura prévia (art. 220). Sem criação ou ampliação de mídia pública estatal. Critérios públicos de mérito, finalidade e legalidade são legítimos; veda-se só a discriminação por opinião política.
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
@@ -334,13 +338,13 @@ Manter o fomento ao audiovisual (Ancine e Fundo Setorial do Audiovisual) por sel
 
 ### 41. Moradia como política de Estado
 
-Transformar o Minha Casa, Minha Vida em política permanente em lei, com financiamento estável (FGTS e fundos próprios), prioridade para a faixa de até dois salários mínimos, aluguel social e produção em áreas com infraestrutura, e não só em periferias distantes (coerente com o item 10). Habitação industrializada em larga escala: produção pública por estatal ou instituto de tecnologia, com padrão mínimo de conforto e qualidade em lei. Os conjuntos podem ficar na borda das cidades, a no máximo 50 minutos porta a porta dos polos de emprego, e só são entregues com o transporte de massa em funcionamento. Cada conjunto nasce com escola, posto de saúde, comércio e lazer, e incentivos temporários e transparentes a pequenos e médios negócios que contratem moradores. A concessão de direito real de uso (não doação, para evitar revenda e especulação) traz o dever de conservação, com vistoria de manutenção, reparo pelo causador do dano e sanção graduada com direito de defesa (fiscaliza-se o patrimônio, não os moradores: art. 5º, X e XI). Seleção impessoal por critérios objetivos a partir do Cadastro Único, com fila pública ou sorteio, sem perda do direito quando a renda melhorar (coerente com o item 11) e com diversidade de renda nos conjuntos. Gestão pública permanente de manutenção e transparência total (item 4). Vistorias consentidas ou legalmente autorizadas, com garantia de defesa.
+Transformar o Minha Casa, Minha Vida em política permanente em lei, com financiamento estável (FGTS e fundos próprios), prioridade para a faixa de até dois salários mínimos, aluguel social e produção em áreas com infraestrutura, e não só em periferias distantes. Habitação industrializada em larga escala: produção pública por estatal ou instituto de tecnologia, com padrão mínimo de conforto e qualidade em lei. Os conjuntos podem ficar na borda das cidades, a no máximo 50 minutos porta a porta dos polos de emprego, e só são entregues com o transporte de massa em funcionamento. Cada conjunto nasce com escola, posto de saúde, comércio e lazer, e incentivos temporários e transparentes a pequenos e médios negócios que contratem moradores. A concessão de direito real de uso (não doação, para evitar revenda e especulação) traz o dever de conservação, com vistoria de manutenção, reparo pelo causador do dano e sanção graduada com direito de defesa (fiscaliza-se o patrimônio, não os moradores: art. 5º, X e XI). Seleção impessoal por critérios objetivos a partir do Cadastro Único, com fila pública ou sorteio, sem perda do direito quando a renda melhorar e com diversidade de renda nos conjuntos. Gestão pública permanente de manutenção e transparência total (item 4). Vistorias consentidas ou legalmente autorizadas, com garantia de defesa.
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
 ### 42. Função social da propriedade urbana
 
-Aplicar nas cidades o que o plano já prevê para fábricas ociosas (item 9): imóveis urbanos vazios ou subutilizados em áreas com infraestrutura são notificados e, persistindo a inércia, sofrem IPTU progressivo e, por último, desapropriação com pagamento em títulos da dívida pública, destinados a moradia (Constituição, art. 182, §4º, e Estatuto da Cidade, Lei 10.257/2001).
+Notificar os proprietários de imóveis urbanos vazios ou subutilizados em áreas com infraestrutura; persistindo a inércia, aplicar IPTU progressivo e, por último, desapropriar o imóvel com pagamento em títulos da dívida pública para destiná-lo à moradia (Constituição, art. 182, §4º, e Estatuto da Cidade, Lei 10.257/2001).
 
 **Fontes:** [Lei 10.257/2001 - Estatuto da Cidade](https://legis.senado.leg.br/norma/552133/publicacao/15722771); [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
@@ -358,7 +362,7 @@ Financiamento federal permanente e transporte público coletivo gratuito para to
 
 ### 45. Moradia segura e adaptação a desastres
 
-Mapear áreas de risco, reassentar famílias com moradia digna no mesmo território sempre que possível, fortalecer a Defesa Civil e exigir planos de adaptação climática nos planos diretores. Ponte com o setor "meio ambiente" do item 27 e com o Eixo 11.
+Mapear áreas de risco, reassentar famílias com moradia digna no mesmo território sempre que possível, fortalecer a Defesa Civil e exigir planos de adaptação climática nos planos diretores.
 
 ## Eixo 8 - Economia sustentável, produtiva e digital
 
@@ -368,7 +372,7 @@ Plano nacional de desenvolvimento de longo prazo, com metas e missões ligadas a
 
 ### 47. Controle público de setores estratégicos
 
-Estatais e participação acionária pública em energia, tecnologia, defesa, minerais críticos e saúde (item 33), com transferência de tecnologia (item 30), governança profissional pela Lei das Estatais (13.303/2016) e metas públicas de desempenho. "Estratégico" é definido em lei, e a mão do Estado vem em graus (participação majoritária, ação especial, sócio estatal na concessão ou exigência de capital nacional, conforme o setor), com a lista revisável pelo Congresso e os minerais (item 47A) como primeiro caso. Criar estatais novas e comprar participação, sem expropriar o que existe. Novas estatais só com os requisitos do art. 173 e lei específica.
+Estatais e participação acionária pública em energia, tecnologia, defesa, minerais críticos e saúde (item 33), com transferência de tecnologia (item 30), governança profissional pela Lei das Estatais (13.303/2016) e metas públicas de desempenho. Os setores estratégicos serão definidos em lei, com modalidades graduadas de participação estatal (participação majoritária, ação especial, sócio estatal na concessão ou exigência de capital nacional, conforme o setor), com a lista revisável pelo Congresso e os minerais (item 47A) como primeiro caso. Criar estatais novas e comprar participação, sem expropriar o que existe. Novas estatais só com os requisitos do art. 173 e lei específica.
 
 **Fontes:** [Lei 13.303/2016 - estatais](https://legis.senado.leg.br/norma/602528/publicacao/15636229).
 
@@ -380,7 +384,7 @@ A lavra de minerais estratégicos (lista definida em lei, por exemplo lítio, te
 
 ### 48. Soberania tecnológica e economia digital
 
-Nuvem pública e data centers no país, semicondutores e IA pública hospedada no Brasil (item 6), com antitruste mais forte contra concentração das big techs (item 5).
+Nuvem pública e data centers no país, semicondutores e IA pública hospedada no Brasil (item 6), com antitruste mais forte contra concentração das grandes plataformas digitais (item 5).
 
 **IA pública.**
 
@@ -406,7 +410,7 @@ Podem ser usadas apenas mediante contrato público que proíba o uso de dados de
 
 ### 49. Pequenos negócios, cooperativas e economia solidária
 
-Crédito público barato para pequenos negócios e cooperativas, compras públicas com preferência a eles (Lei 14.133/2021 e LC 123/2006), assistência técnica e formação. Liga com o item 8 (Simples e MEI) e com o item 12. O apoio a cooperativas segue o prazo e a graduação do item 12 (5 anos, com redução gradual nos 2 últimos).
+Crédito público barato para pequenos negócios e cooperativas, compras públicas com preferência a eles (Lei 14.133/2021 e LC 123/2006), assistência técnica e formação. Apoio a cooperativas por cinco anos, com redução gradual nos dois últimos.
 
 **Fontes:** [LC 123/2006 - micro e pequenas empresas](https://legis.senado.leg.br/norma/572878/publicacao/34621013); [Lei 14.133/2021 - licitações](https://legis.senado.leg.br/norma/33382036/publicacao/33383820).
 
@@ -438,11 +442,11 @@ Cumprir os arts. 184 a 186: imóvel rural que não cumpre a função social (pro
 
 ### 54. Diversificação produtiva e reindustrialização
 
-O agronegócio é setor estratégico e valorizado, mas não pode ser o centro da economia. O plano reduz a dependência do país de commodities primárias por três caminhos: (1) agregar valor ao que o campo produz (processamento, biocombustíveis, bioinsumos e biotecnologia), exportando produtos processados; (2) crescer a indústria tecnológica, com os itens 27, 30 e 46 a 48; (3) crédito, compras públicas e incentivos direcionados a esses setores. Metas públicas de participação de produtos de média e alta tecnologia na pauta exportadora. O crédito público ao agro fica condicionado a conformidade ambiental e trabalhista (lista suja do trabalho escravo), com rastreabilidade e desmatamento ilegal zero, e as grandes propriedades improdutivas pagam ITR progressivo (art. 153, §4º). Crédito público condicionado a requisitos objetivos de regularidade ambiental e trabalhista.
+Reconhecer o agronegócio como setor estratégico e reduzir a dependência de commodities primárias por três frentes: (1) agregar valor ao que o campo produz (processamento, biocombustíveis, bioinsumos e biotecnologia), exportando produtos processados; (2) crescer a indústria tecnológica, com os itens 27, 30 e 46 a 48; (3) crédito, compras públicas e incentivos direcionados a esses setores. Metas públicas de participação de produtos de média e alta tecnologia na pauta exportadora. O crédito público ao agro fica condicionado a conformidade ambiental e trabalhista (lista suja do trabalho escravo), com rastreabilidade e desmatamento ilegal zero, e as grandes propriedades improdutivas pagam ITR progressivo (art. 153, §4º).
 
 ### 55. Soberania alimentar e insumos
 
-Reduzir a dependência externa de fertilizantes com um plano nacional (potássio, fosfato e nitrogenados, este ligado à energia e ao gás), reserva estratégica de insumos e preservação de sementes e recursos genéticos. Coerente com o princípio "dependência externa mínima e sob controle" do item 6.
+Reduzir a dependência externa de fertilizantes com um plano nacional (potássio, fosfato e nitrogenados, este ligado à energia e ao gás), reserva estratégica de insumos e preservação de sementes e recursos genéticos.
 
 ## Eixo 10 - Segurança energética e transição de baixo carbono
 
@@ -452,7 +456,7 @@ Planejamento de longo prazo (EPE, ONS e CNPE) com segurança de suprimento como 
 
 ### 57. Renováveis, armazenamento e redes
 
-Expandir solar, eólica (incluindo offshore), biomassa e hidrelétricas reversíveis, com baterias e redes inteligentes para lidar com a variabilidade. Indústria nacional de painéis, baterias e aerogeradores, pelos itens 27, 30 e 46. Revisão gradual dos subsídios, com transparência sobre quem paga a conta.
+Expandir solar, eólica (incluindo offshore), biomassa e hidrelétricas reversíveis, com baterias e redes inteligentes para lidar com a variabilidade. Indústria nacional de painéis, baterias e aerogeradores, pelos itens 27, 30 e 46. Revisão gradual dos subsídios, com transparência sobre a distribuição dos custos aos consumidores.
 
 ### 58. Petróleo e gás na transição
 
@@ -462,7 +466,7 @@ Usar a renda do petróleo para financiar a transição (fundo soberano, por lei)
 
 ### 59. Energia nuclear para fins pacíficos
 
-Fortalecer a pesquisa nuclear (CNEN e INB), concluir os projetos em andamento , avaliar reatores modulares pequenos, dominar o ciclo do combustível e ampliar a medicina nuclear.
+Fortalecer a pesquisa nuclear (CNEN e INB), concluir os projetos em andamento, avaliar reatores modulares pequenos, dominar o ciclo do combustível e ampliar a medicina nuclear.
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
@@ -498,7 +502,7 @@ Fundo nacional de adaptação, sistema de alertas, Defesa Civil fortalecida e in
 
 ### 65. Poluidor-pagador, resíduos e águas
 
-Responsabilidade objetiva de quem causa dano ambiental (art. 225, §3º e Lei 6.938/1981), fim dos lixões com logística reversa e reciclagem (Lei 12.305/2010), segurança de barragens e mineração, proteção de nascentes e qualidade da água (ponte com os itens 43 e 54). Responsabilidade civil objetiva nos termos do art. 14, §1º, da Lei 6.938/1981.
+Responsabilidade objetiva de quem causa dano ambiental (art. 225, §3º e Lei 6.938/1981), fim dos lixões com logística reversa e reciclagem (Lei 12.305/2010), segurança de barragens e mineração, proteção de nascentes e qualidade da água. Responsabilidade civil objetiva nos termos do art. 14, §1º, da Lei 6.938/1981.
 
 **Fontes:** [Lei 12.305/2010 - resíduos sólidos](https://legis.senado.leg.br/norma/575947/publicacao/34618961); [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
@@ -510,7 +514,7 @@ Fiscalização efetiva dos maus-tratos (art. 225, §1º, VII; Lei 9.605/1998, co
 
 ### 66. Minerais críticos: soberania, industrialização e compensação
 
-O plano cumpre e aprofunda a Política Nacional de Minerais Críticos e Estratégicos (Lei 15.506/2026). As jazidas são da União e a lavra é concedida a empresas com sede e administração no país, com exigência de beneficiamento no Brasil, transferência de tecnologia (item 30), cooperação com institutos públicos e participação estatal nos setores estratégicos (item 47). A exploração segue a hierarquia de mitigação (evitar, minimizar, restaurar e só então compensar), com compensação em área ecologicamente equivalente no mesmo bioma ou bacia, garantia financeira prévia e auditoria independente. São vedadas a mineração em unidades de conservação de proteção integral e, em terras indígenas (item 14), a que não cumpra o art. 231, §3º. Royalties e receitas são aplicados na indústria tecnológica (itens 46 e 48) e em fundos regionais. Exigências proporcionais de beneficiamento e transferência de tecnologia nos casos admitidos pela lei e pelos compromissos internacionais.
+Aprofundar a Política Nacional de Minerais Críticos e Estratégicos (Lei 15.506/2026). As jazidas são da União e a lavra é concedida a empresas com sede e administração no país, com exigência de beneficiamento no Brasil, transferência de tecnologia (item 30), cooperação com institutos públicos e participação estatal nos setores estratégicos (item 47). A exploração segue a hierarquia de mitigação (evitar, minimizar, restaurar e só então compensar), com compensação em área ecologicamente equivalente no mesmo bioma ou bacia, garantia financeira prévia e auditoria independente. São vedadas a mineração em unidades de conservação de proteção integral e, em terras indígenas (item 14), a que não cumpra o art. 231, §3º. Royalties e receitas são aplicados na indústria tecnológica (itens 46 e 48) e em fundos regionais. Exigências proporcionais de beneficiamento e transferência de tecnologia nos casos admitidos pela lei e pelos compromissos internacionais.
 
 **Fontes:** [Lei 15.506/2026 - minerais críticos](https://legis.senado.leg.br/norma/43923839/publicacao/43929692).
 
@@ -548,7 +552,7 @@ Reduzir acidentes e doenças do trabalho, incluindo os riscos psicossociais (sa�
 
 ### 72. Automação, inteligência artificial e requalificação
 
-O art. 7º, XXVII protege o trabalhador "em face da automação, na forma da lei", e essa lei nunca foi feita. Proposta: aviso prévio e negociação antes de demissões em massa por automação, requalificação financiada pelo Estado (itens 24 a 29), seguro-desemprego ampliado e participação dos trabalhadores nos ganhos de produtividade. O plano não proíbe a automação. Regulamentar de maneira abrangente a proteção constitucional em face da automação.
+Regulamentar o art. 7º, XXVII, da Constituição: exigir aviso prévio e negociação antes de demissões em massa por automação, financiar requalificação profissional, ampliar o seguro-desemprego e assegurar participação dos trabalhadores nos ganhos de produtividade.
 
 **Fontes:** [Constituição Federal](https://legis.senado.leg.br/norma/579494/publicacao/16434817).
 
